@@ -1,0 +1,36 @@
+{
+  "name": "drupalninja/drupalx-core",
+  "description": "DrupalX core recipe for decoupled and standard Drupal sites.",
+  "keywords": [
+    "recipe",
+    "drupal recipe",
+  ],
+  "type": "drupal-recipe",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Jay Callicott",
+      "role": "Project Lead"
+    }
+  ],
+  "require": {
+    "drupal/admin_toolbar": "^3.4",
+        "drupal/admin_toolbar_tools": "^3.4",
+        "drupal/allowed_formats": "^3.0",
+        "drupal/core-composer-scaffold": "^10.3",
+        "drupal/core-recommended": "^10.3",
+        "drupal/default_content": "^2.0@alpha",
+        "drupal/features": "^3.14",
+        "drupal/field_group": "^3.4",
+        "drupal/gin": "^3.0@RC",
+        "drupal/gin_login": "^2.0",
+        "drupal/linkit": "^6.1",
+        "drupal/metatag": "^2.0",
+        "drupal/node_revision_delete": "^2.0@RC",
+        "drupal/pathauto": "^1.12",
+        "drupal/redirect": "^1.9",
+        "drupal/svg_image_responsive": "^3.0",
+        "drupal/taxonomy_access_fix": "^4.0",
+        "drupal/webp": "^1.0@RC"
+  }
+}
