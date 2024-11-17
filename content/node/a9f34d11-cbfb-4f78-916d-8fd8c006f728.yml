@@ -132,7 +132,7 @@ default:
                       value: {  }
                   field_icon:
                     -
-                      value: deployed_code
+                      value: box
                   field_summary:
                     -
                       value: '<p>Streamlined workflows for faster project delivery.</p>'
@@ -157,7 +157,7 @@ default:
                       value: {  }
                   field_icon:
                     -
-                      value: deployed_code
+                      value: box
                   field_summary:
                     -
                       value: '<p>Streamlined workflows for faster project delivery.</p>'
@@ -182,7 +182,7 @@ default:
                       value: {  }
                   field_icon:
                     -
-                      value: deployed_code
+                      value: box
                   field_summary:
                     -
                       value: '<p>User-friendly interface for all skill levels.</p>'
@@ -278,7 +278,7 @@ default:
                       value: {  }
                   field_icon:
                     -
-                      value: deployed_code
+                      value: box
                   field_summary:
                     -
                       value: 'Navigate effortlessly with our intuitive design.'
@@ -306,7 +306,7 @@ default:
                       value: {  }
                   field_icon:
                     -
-                      value: deployed_code
+                      value: box
                   field_summary:
                     -
                       value: 'Tailor your experience with flexible module options.'
@@ -334,7 +334,7 @@ default:
                       value: {  }
                   field_icon:
                     -
-                      value: deployed_code
+                      value: box
                   field_summary:
                     -
                       value: 'Get assistance anytime with our dedicated support team.'

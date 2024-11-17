@@ -138,7 +138,7 @@ default:
                       value: {  }
                   field_icon:
                     -
-                      value: hub
+                      value: network
                   field_summary:
                     -
                       value: 'Harness the power of headless CMS to separate the front and back-end for optimal flexibility.'
@@ -166,7 +166,7 @@ default:
                       value: {  }
                   field_icon:
                     -
-                      value: smart_toy
+                      value: bot
                   field_summary:
                     -
                       value: 'Leverage cutting-edge AI assistants and smart code generators to accelerate your development.'
@@ -226,7 +226,7 @@ default:
                       value: {  }
                   field_icon:
                     -
-                      value: integration_instructions
+                      value: code
                   field_summary:
                     -
                       value: 'Experience seamless integration and flexibility with our Decoupled Architecture.'
@@ -254,7 +254,7 @@ default:
                       value: {  }
                   field_icon:
                     -
-                      value: schema
+                      value: git-branch
                   field_summary:
                     -
                       value: "Leverage the power of React and Node.js to dramatically improve your website's efficiency and speed."
@@ -282,7 +282,7 @@ default:
                       value: {  }
                   field_icon:
                     -
-                      value: speed
+                      value: zap
                   field_summary:
                     -
                       value: 'Deliver lightning-quick load times and smooth interactions that keep your audience coming back.'

@@ -132,7 +132,7 @@ default:
                       value: true
                   field_icon:
                     -
-                      value: deployed_code
+                      value: box
                   field_summary:
                     -
                       value: 'Build flexible applications that separate the front-end and back-end for optimal performance.'
@@ -163,7 +163,7 @@ default:
                       value: true
                   field_icon:
                     -
-                      value: deployed_code
+                      value: box
                   field_summary:
                     -
                       value: 'Leverage intelligent algorithms to enhance site speed and user experience effortlessly.'
@@ -1070,7 +1070,7 @@ default:
                       value: true
                   field_icon:
                     -
-                      value: deployed_code
+                      value: box
                   field_summary:
                     -
                       value: '<p>Streamlined workflows for faster project delivery.</p>'
@@ -1098,7 +1098,7 @@ default:
                       value: true
                   field_icon:
                     -
-                      value: deployed_code
+                      value: box
                   field_summary:
                     -
                       value: '<p>Robust features that adapt to your needs.</p>'
@@ -1126,7 +1126,7 @@ default:
                       value: true
                   field_icon:
                     -
-                      value: deployed_code
+                      value: box
                   field_summary:
                     -
                       value: '<p>User-friendly interface for all skill levels.</p>'
