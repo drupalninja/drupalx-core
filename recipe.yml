@@ -64,7 +64,6 @@ install:
   - responsive_image
   - svg_image
   - svg_image_responsive
-  - taxonomy_access_fix
   - viewfield
   - webp
 
@@ -129,7 +128,6 @@ config:
     responsive_image: '*'
     svg_image: '*'
     svg_image_responsive: '*'
-    taxonomy_access_fix: '*'
     viewfield: '*'
     webp: '*'
 
