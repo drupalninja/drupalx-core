@@ -1,5 +1,5 @@
 name: 'DrupalX Core'
-description: 'DrupalX base configuration, content types, permissions and sample content.'
+description: 'DrupalX base configuration, content types, and permissions.'
 type: 'Site'
 recipes:
   # Core recipes with basic functionality
@@ -66,6 +66,8 @@ install:
   - svg_image_responsive
   - viewfield
   - webp
+  # DrupalX
+  - drupalx_setup
 
 config:
   import:
@@ -135,9 +137,9 @@ config:
     # Set home page
     system.site:
       simple_config_update:
-        page.front: /user
-        page.403: /node/17
-        page.404: /node/15
+        page.front: /drupalx-setup
+        page.403: /node/2
+        page.404: /node/1
     # Set and unset Gin blocks.
     block.block.gin_admin:
       simple_config_update:
