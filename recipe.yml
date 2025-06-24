@@ -19,7 +19,6 @@ recipes:
 
 install:
   # Core
-  - allowed_formats
   - ckeditor5
   - config
   - content_moderation
@@ -27,7 +26,6 @@ install:
   - contextual
   - datetime
   - datetime_range
-  - editor
   - field_ui
   - file
   - history
@@ -140,20 +138,11 @@ config:
         page.front: /drupalx-setup
         page.403: /node/2
         page.404: /node/1
-    # Set and unset Gin blocks.
-    block.block.gin_admin:
-      simple_config_update:
-        status: false
-    block.block.gin_branding:
-      simple_config_update:
-        status: false
+    # Configure Gin blocks.
     block.block.gin_local_actions:
       simple_config_update:
         region: content
         weight: -10
-    block.block.gin_local_tasks:
-      simple_config_update:
-        status: false
     block.block.gin_page_title:
       simple_config_update:
         region: header
@@ -163,9 +152,6 @@ config:
         region: header
         weight: -5
         settings.secondary: true
-    block.block.gin_tools:
-      simple_config_update:
-        status: false
     # Update the admin theme to Gin in Theme settings.
     node.settings:
       simple_config_update:
