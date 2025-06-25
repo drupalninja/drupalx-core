@@ -47,6 +47,7 @@ install:
   - admin_toolbar
   - admin_toolbar_tools
   - admin_toolbar_search
+  - allowed_formats
   - field_group
   - gin
   - gin_login
