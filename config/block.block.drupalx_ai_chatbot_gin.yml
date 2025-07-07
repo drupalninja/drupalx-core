@@ -1,0 +1,19 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - drupalx_ai
+  theme:
+    - gin
+id: drupalx_ai_chatbot_gin
+theme: gin
+region: content
+weight: 100
+provider: null
+plugin: drupalx_ai_chatbot_block
+settings:
+  id: drupalx_ai_chatbot_block
+  label: 'DrupalX AI Chatbot'
+  label_display: '0'
+  provider: drupalx_ai
+visibility: {  }
